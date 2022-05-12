@@ -1,0 +1,5 @@
+$ mkdir: Cria um novo diretório
+ou pasta
+$ rm Excluir um arquivo
+Para passar o commit do meu repositório local (da minha máquina)
+ para um repositório na plataforma do Github, usamos o git remote add origin <link do repositório>
